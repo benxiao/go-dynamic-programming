@@ -1,8 +1,8 @@
 package main
 
 import (
-	"./knapsack"
 	"fmt"
+	"github/ranxiao/go-dynamic-programming/knapsack"
 )
 
 func main(){
